@@ -15,3 +15,15 @@ __(.)> __(.)> __(.)>__(.)< __(.)> __(.)>__(.)< __(.)> __(.)>__(.)< __(.)>
 ```   
 
 
+Running
+---
+
+1. npm install
+2. bower isntall
+3. npm start
+
+
+Notes
+---
+- Deploying to heroku
+-- git push heroku master
