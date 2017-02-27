@@ -40,3 +40,6 @@ Thumbs.db
 ######################
 node_modules
 public/components
+
+# Ignore compiled css #
+public/stylesheets
