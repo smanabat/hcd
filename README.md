@@ -14,6 +14,7 @@ __(.)> __(.)> __(.)>__(.)< __(.)> __(.)>__(.)< __(.)> __(.)>__(.)< __(.)>
 \___)  \___)  \___) \___)  \___)  \___) \___)  \___)  \___) \___)  \___) 
 ```   
 
+[![Build Status](https://travis-ci.org/smanabat/hcd.svg?branch=master)](https://travis-ci.org/smanabat/hcd)
 
 https://secret-springs-56702.herokuapp.com/
 
