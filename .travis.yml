@@ -3,6 +3,9 @@ node_js:
 - iojs
 - '6'
 
+notifications:
+  email: false
+  
 deploy:
   provider: heroku
   app: "secret-springs-56702"
